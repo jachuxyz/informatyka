@@ -24,5 +24,5 @@
 # print(toroot([1, 5, 6, 9, 12, 15]))
 
 # 5. Napisz funkcję która przyjmuje listę jako argument w zwróci ile występuje liczb parzystych
-parzystych = lambda lst: len(list(filter(lambda el: el % 2 == 0, lst)))
-print(parzystych([1, 4, 3, 5, 7, 8, 12, 10]))
+# parzystych = lambda lst: len(list(filter(lambda el: el % 2 == 0, lst)))
+# print(parzystych([1, 4, 3, 5, 7, 8, 12, 10]))
